@@ -2,5 +2,4 @@
     "name": "docker",
     "compatibility_date": "2025-06-25",
     "main": "_worker.js"
-    }
-  }
+}
