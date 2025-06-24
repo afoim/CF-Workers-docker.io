@@ -1,7 +1,6 @@
 {
     "name": "docker",
     "compatibility_date": "2025-06-25",
-    "assets": {
-      "directory": "./"
+    "main": "_worker.js"
     }
   }
